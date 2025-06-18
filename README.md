@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**Exkemy/Exkemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À propos de moi
+- **Ewa**  
+- Développeur passionnée
+- Basé en France
+- Curieuse, toujours prête à apprendre de nouvelles technologies  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Compétences
+
+**Langages :**  
+Python · JavaScript · TypeScript · 
+
+**Outils & environnements :**  
+Git · Docker · Linux (Debian/Ubuntu) · VS Code · Node.js · CI/CD · …
+
+---
+
+## Statistiques GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Exkemy&show_icons=true&theme=radical)
+
+---
+
+## Projets épinglés
+
+### [`eclevia` (Contribution notable)](https://github.com/exkemy/eclevia)
+Bot Discord - Gestion & Multi-Modules 🛠️
+**Langage :** JavaScript ·
+
+
+---
+
+## 😊 Connectons-nous
+- [Discord](https://discord.gg/ewa)  
+- [Site](https://ewa.gg)  
+
+---
+
+© 2025 Exkemy
