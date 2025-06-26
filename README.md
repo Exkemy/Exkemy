@@ -11,7 +11,7 @@
 ## Compétences
 
 **Langages :**  
-Python · JavaScript · TypeScript · 
+JavaScript · TypeScript · HTML · CSS · PHP · 
 
 **Outils & environnements :**  
 Git · Docker · Linux (Debian/Ubuntu) · VS Code · Node.js · CI/CD · …
